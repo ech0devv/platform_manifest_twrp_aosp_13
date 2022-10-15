@@ -2,7 +2,8 @@
 <manifest>
     <remote name="TeamWin"
             fetch="https://github.com/TeamWin"
-            review="https://gerrit.twrp.me"/>
+            review="https://gerrit.twrp.me"
+            revision="refs/heads/lineage-20"/>
 
     <remote name="LineageOS"
             fetch="https://github.com/LineageOS"
